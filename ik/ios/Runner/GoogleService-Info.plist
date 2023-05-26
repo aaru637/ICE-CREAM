@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1052335859680-pm4n0ttjga154eju1ok8bjidjaunkrdj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1052335859680-pm4n0ttjga154eju1ok8bjidjaunkrdj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDuBRxz0YOn3vwXS7ZYcZwFxnPXTxyLOo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1052335859680</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ik.ik</string>
+	<key>PROJECT_ID</key>
+	<string>ice-cream-8838</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ice-cream-8838.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1052335859680:ios:e2ab32b7ab72e4853ced85</string>
+</dict>
+</plist>
