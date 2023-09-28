@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052335859680",
+    "project_id": "ice-cream-8838",
+    "storage_bucket": "ice-cream-8838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052335859680:android:366dddd2b7baa0823ced85",
+        "android_client_info": {
+          "package_name": "com.ik.ik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052335859680-dj0o7tle5edjohto5njdpcv7o0806irc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDasHdpvYZ5v3r2GBGM41l2tFcokphyLlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052335859680-dj0o7tle5edjohto5njdpcv7o0806irc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
